@@ -15,6 +15,7 @@
 
 # production
 /build
+#mongdb pw - 7V11GRX8eyGUUCHc | user - tristanrulez01
 
 # misc
 .DS_Store
@@ -27,6 +28,7 @@ yarn-error.log*
 
 # local env files
 .env*.local
+.env 
 
 # vercel
 .vercel
